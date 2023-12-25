@@ -95,7 +95,7 @@ randomColor: false,
 ```
 Treat me to a cup of coffee.
 
-![1281229923](https://github.com/SwanFlutter/flutter_avatars/assets/151648897/fd75ec2b-5123-4202-a0a5-85d07adba708)(https://www.swanflutterdev.site/pay.html)
+![1281229923][(https://github.com/SwanFlutter/flutter_avatars/assets/151648897/fd75ec2b-5123-4202-a0a5-85d07adba708)](https://www.swanflutterdev.site/pay.html)
 
 
 
