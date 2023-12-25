@@ -12,13 +12,13 @@ This is a complete avatar package that you can use for your profile and avatar
 ✔️ Use ImageAssets .
 ✔️ Use ImageNetwork .
 
+![Uploading Captur![Capture3](https://github.com/SwanFlutter/flutter_avatars/assets/151648897/948b4abf-ac0e-4b16-b426-bc238adbe867)
 
-![Capture1](https://github.com/SwanFlutter/flutter_avatars/assets/151648897/0f8128d3-f7b6-4a64-ba20-18d0c3574ff1)
+![Capture2](https://github.com/SwanFlutter/flutter_avatars/assets/151648897/fb6a9c1d-35bb-40bb-a163-8de1768ef686)
 
-![Capture2](https://github.com/SwanFlutter/flutter_avatars/assets/151648897/e4c32985-93fd-4326-b800-aa480f5f82fc)
+![Capture1](https://github.com/SwanFlutter/flutter_avatars/assets/151648897/26254cae-8423-46bf-a6fa-f28f77e1c4a0)
 
 
-![Capture3](https://github.com/SwanFlutter/flutter_avatars/assets/151648897/972a504a-eabb-4c7d-ad0f-1ee50d508222)
 
 
 
